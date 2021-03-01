@@ -2,7 +2,7 @@ import pygame
 import sys
 import os
 
-file_name = input() + '.txt'
+file_name = input()
 
 
 def load_image(name, colorkey=None):
